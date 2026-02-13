@@ -60,19 +60,19 @@ cv:
 
       - institution: Arizona State University, Tempe, AZ
         area: Computer Engineering (Computer Systems)
-        studyType: M.S.
+        studyType: Master of Science
         start_date: 2022-08-01
         end_date: 2024-05-01
         score: "3.83/4.00"
 
       - institution: National Institute of Technology, Bhopal
         area: Electronics and Communication Engineering
-        studyType: B.Tech.
+        studyType: Bachelor of Technology
         start_date: 2017-08-01
         end_date: 2021-04-01
         score: "7.98/10.00"
 
-    Work:
+    Experience:
       - company: e2Serv Technologies
         position: Software Development Engineer
         start_date: 2021-08-01
@@ -88,7 +88,6 @@ cv:
           - Designed and developed a Fast R-CNN network to detect and recognize traffic signs in clustered environment of India with an accuracy of 87%.
           - Developed an algorithm by utilizing Style Transfer and conditional GANs to convert clear environment images into rainy and dusty environment for data augmentation.
 
-    Volunteer:
       - company: Conferences
         position: Reviewer
         start_date: 2024-08-01
