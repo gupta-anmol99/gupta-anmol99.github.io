@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: Making robots do cool things at <a href='https://logos-robotics-lab.github.io/'>Logos Lab</a>, Arizona State University
 
