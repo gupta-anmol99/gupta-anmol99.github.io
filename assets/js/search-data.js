@@ -468,13 +468,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/gupta-anmol17", "_blank");
         },
       },{
-        id: 'social-medium',
-        title: 'Medium',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://medium.com/@anmolguptamanit", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
