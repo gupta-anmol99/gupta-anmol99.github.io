@@ -405,11 +405,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-my-paper-pokenet-learning-kinematic-models-of-articulated-objects-from-human-observations-is-accepted-in-icra-2026",
           title: 'My paper PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations is...',
           description: "",
