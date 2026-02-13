@@ -4,74 +4,6 @@ cv:
   email: anmolgupta@asu.edu
 
   sections:
-    Education:
-      - institution: Arizona State University
-        location: Tempe, AZ
-        url: https://www.asu.edu/
-        area: Computer Engineering
-        studyType: Ph.D.
-        start_date: 2022-08-01
-        end_date: Present
-        score: "3.91/4.00"
-
-      - institution: Arizona State University
-        location: Tempe, AZ
-        url: https://www.asu.edu/
-        area: Computer Engineering (Computer Systems)
-        studyType: M.S.
-        start_date: 2022-08-01
-        end_date: 2024-05-01
-        score: "3.83/4.00"
-
-      - institution: National Institute of Technology, Bhopal
-        location: Bhopal, India
-        url: https://www.manit.ac.in/
-        area: Electronics and Communication Engineering
-        studyType: B.Tech.
-        start_date: 2017-08-01
-        end_date: 2021-04-01
-        score: "7.98/10.00"
-
-    Experience:
-      - company: e2Serv Technologies
-        position: Software Development Engineer
-        location: India
-        start_date: 2021-08-01
-        end_date: 2022-06-01
-        highlights:
-          - Designed backend for "Employee Handling System" by utilizing Spring Framework, Java and Thymeleaf and used JPA methods for database connections.
-
-      - company: Swaayatt Robots
-        position: Deep Learning Intern
-        location: India
-        start_date: 2021-01-01
-        end_date: 2021-07-01
-        highlights:
-          - Designed and developed a Fast R-CNN network to detect and recognize traffic signs in clustered environment of India with an accuracy of 87%.
-          - Developed an algorithm by utilizing Style Transfer and conditional GANs to convert clear environment images into rainy and dusty environment for data augmentation.
-
-    Volunteer:
-      - company: Conferences
-        position: Reviewer
-        start_date: 2024-08-01
-        summary: Reviewer for ICRA 2026, ICRA 2025
-
-    # Awards:
-    #   - title: Nobel Prize in Physics
-    #     authors:
-    #       - "Royal Swedish Academy of Sciences"
-    #     date: 1921-11-01
-    #     awarder: Royal Swedish Academy of Sciences
-    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-    #   - title: Max Planck Medal
-    #     authors:
-    #       - "German Physical Society"
-    #     date: 2029
-    #     awarder: German Physical Society
-    #     summary: Awarded for outstanding scientific achievement
-
     Publications:
       - title: "PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations"
         authors:
@@ -117,6 +49,66 @@ cv:
         publisher: NeurIPS 2023 Workshop on Generalization in Planning
         releaseDate: 2023
         url: https://openreview.net/pdf?id=boub8VqmZu
+
+    Education:
+      - institution: Arizona State University, Tempe, AZ
+        area: Computer Engineering
+        studyType: Ph.D.
+        start_date: 2022-08-01
+        end_date: Present
+        score: "3.91/4.00"
+
+      - institution: Arizona State University, Tempe, AZ
+        area: Computer Engineering (Computer Systems)
+        studyType: M.S.
+        start_date: 2022-08-01
+        end_date: 2024-05-01
+        score: "3.83/4.00"
+
+      - institution: National Institute of Technology, Bhopal
+        area: Electronics and Communication Engineering
+        studyType: B.Tech.
+        start_date: 2017-08-01
+        end_date: 2021-04-01
+        score: "7.98/10.00"
+
+    Work:
+      - company: e2Serv Technologies
+        position: Software Development Engineer
+        start_date: 2021-08-01
+        end_date: 2022-06-01
+        highlights:
+          - Designed backend for "Employee Handling System" by utilizing Spring Framework, Java and Thymeleaf and used JPA methods for database connections.
+
+      - company: Swaayatt Robots
+        position: Deep Learning Intern
+        start_date: 2021-01-01
+        end_date: 2021-07-01
+        highlights:
+          - Designed and developed a Fast R-CNN network to detect and recognize traffic signs in clustered environment of India with an accuracy of 87%.
+          - Developed an algorithm by utilizing Style Transfer and conditional GANs to convert clear environment images into rainy and dusty environment for data augmentation.
+
+    Volunteer:
+      - company: Conferences
+        position: Reviewer
+        start_date: 2024-08-01
+        summary: Reviewer for ICRA 2026, ICRA 2025
+
+    # Awards:
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+    #   - title: Max Planck Medal
+    #     authors:
+    #       - "German Physical Society"
+    #     date: 2029
+    #     awarder: German Physical Society
+    #     summary: Awarded for outstanding scientific achievement
 
     # Skills:
     #   - name: Physics
