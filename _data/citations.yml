@@ -1,10 +1,18 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-11'
 papers:
   XJje9V4AAAAJ:2osOgNQ5qMEC:
-    citations: 0
+    citations: 1
     title: 'PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations'
     year: '2026'
+  XJje9V4AAAAJ:IjCSPb-OGe4C:
+    citations: 10
+    title: Multi-task learning with cross attention for keyword spotting
+    year: '2021'
+  XJje9V4AAAAJ:UeHWp8X0CEIC:
+    citations: 1
+    title: Improving voice trigger detection with metric learning
+    year: '2022'
   XJje9V4AAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects
@@ -17,3 +25,7 @@ papers:
     citations: 3
     title: Learning AI-System Capabilities under Stochasticity
     year: '2023'
+  XJje9V4AAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: EE186 Trends in Cost of Treatment with Immuno-oncology Drugs in the US
+    year: '2024'
