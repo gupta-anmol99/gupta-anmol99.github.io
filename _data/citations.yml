@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-06-26'
 papers:
   XJje9V4AAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: 'PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations'
     year: '2026'
   XJje9V4AAAAJ:qjMakFHDy7sC:
-    citations: 7
+    citations: 8
     title: Continual robot skill and task learning via dialogue
     year: Unknown Year
   XJje9V4AAAAJ:u5HHmVD_uO8C:
