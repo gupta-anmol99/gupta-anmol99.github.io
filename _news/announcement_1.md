@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper [PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations](https://arxiv.org/abs/2602.02741) is accepted in ICRA 2026! 🎉
+[PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations](https://arxiv.org/abs/2602.02741) has been accepted at ICRA 2026! 🎉

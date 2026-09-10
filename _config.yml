@@ -6,8 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anmol
 middle_name:
 last_name: Gupta
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > 
   Anmol Gupta - PhD student in Robotics and AI at Arizona State University. 
   Research on learning kinematic models of articulated objects, robot manipulation, 
@@ -202,6 +200,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _posts/2023-07-04-jupyter-notebook.md
+  - assets/jupyter/blog.ipynb
   - purgecss.config.js
   - README.md
   - readme_preview/

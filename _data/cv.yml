@@ -5,6 +5,21 @@ cv:
 
   sections:
     Publications:
+      - title: "Monkey See, Can Monkey Do? A Benchmark for Evaluating Robot Skill Learning by Observation"
+        authors:
+          - Weiwei Gu
+          - Anmol Gupta
+          - Anant Sah
+          - Ryan Varghese
+          - Lalitha Shreya Vanam
+          - Prabhath Adireddi
+          - Peter Karkus
+          - Nakul Gopalan
+        publisher: CoRL 2026
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2609.08209
+        summary: RoboReel is a unified benchmark for evaluating models that learn robot policies from human videos, covering ten manipulation tasks. It benchmarks robustness to visual distractors and long-horizon performance across seven state-of-the-art methods.
+
       - title: "PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations"
         authors:
           - Anmol Gupta
@@ -15,18 +30,8 @@ cv:
         publisher: 2026 IEEE International Conference on Robotics and Automation (ICRA)
         releaseDate: 2026
         url: https://arxiv.org/abs/2602.02741
-        summary: Articulation modeling enables robots to learn joint parameters of articulated objects for effective manipulation. PokeNet is an end-to-end framework that estimates articulation models from a single human demonstration without prior object knowledge, improving joint axis and state estimation accuracy by over 27% across diverse objects.
+        summary: PokeNet estimates articulation models of unknown objects from a single human demonstration, without prior object knowledge. It improves joint axis and state estimation accuracy by over 27% across diverse objects.
 
-      - title: Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects
-        authors:
-          - Anmol Gupta
-          - Weiwei Gu
-          - Omkar Patil
-          - Jun Ki Lee
-          - Nakul Gopalan
-        publisher: arXiv preprint arXiv:2505.06363
-        releaseDate: 2025
-        url: https://arxiv.org/abs/2505.06363
 
       - title: Continual Robot Skill and Task Learning via Dialogue
         authors:
@@ -91,7 +96,7 @@ cv:
       - company: Conferences
         position: Reviewer
         start_date: 2024-08-01
-        summary: Reviewer for ICRA 2026, ICRA 2025
+        summary: Reviewer for CoRL 2026, ICRA 2026, ICRA 2025
 
     # Awards:
     #   - title: Nobel Prize in Physics
