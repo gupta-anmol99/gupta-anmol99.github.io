@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -186,17 +186,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -391,8 +380,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-paper-pokenet-learning-kinematic-models-of-articulated-objects-from-human-observations-is-accepted-in-icra-2026",
-          title: 'My paper PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations is...',
+            },},{id: "news-pokenet-learning-kinematic-models-of-articulated-objects-from-human-observations-has-been-accepted-at-icra-2026",
+          title: 'PokeNet: Learning Kinematic Models of Articulated Objects from Human Observations has been accepted...',
+          description: "",
+          section: "News",},{id: "news-roboreel-has-been-accepted-at-corl-2026",
+          title: 'RoboReel has been accepted at CoRL 2026! 🎉',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -444,7 +436,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Anmol_Gupta_Resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
